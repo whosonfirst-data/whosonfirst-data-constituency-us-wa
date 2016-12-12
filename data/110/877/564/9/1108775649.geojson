@@ -9,7 +9,7 @@
     "geom:bbox":"-122.28366,47.30104,-122.0342,47.44041",
     "geom:latitude":47.357608,
     "geom:longitude":-122.153334,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":159668053.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 47",
     "uscensus:sldust":"047",
     "uscensus:statefp":"53",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688623
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488566,
     "wof:geomhash":"81de5fffe925dac139fadc4a4d1a9c69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688623
+        }
+    ],
     "wof:id":1108775649,
     "wof:lastmodified":1481488566,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688623,
     "wof:repo":"whosonfirst-data-constituency-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],

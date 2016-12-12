@@ -9,7 +9,7 @@
     "geom:bbox":"-117.48037,47.62814,-117.30386,47.73382",
     "geom:latitude":47.677863,
     "geom:longitude":-117.398878,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":82027068.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 3",
     "uscensus:sldlst":"003",
     "uscensus:statefp":"53",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688623
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488526,
     "wof:geomhash":"e74911ad369657ec2d51a8a498175bf8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688623
+        }
+    ],
     "wof:id":1108775441,
     "wof:lastmodified":1481488526,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688623,
     "wof:repo":"whosonfirst-data-constituency-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],

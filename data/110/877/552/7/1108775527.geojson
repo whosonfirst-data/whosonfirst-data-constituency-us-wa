@@ -9,7 +9,7 @@
     "geom:bbox":"-123.322238,48.62569,-120.65586,49.00243",
     "geom:latitude":48.836753,
     "geom:longitude":-121.843384,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":5206644356.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 42",
     "uscensus:sldlst":"042",
     "uscensus:statefp":"53",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688623
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488540,
     "wof:geomhash":"b96f234fa2492a3c90a84cd783f0b9bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688623
+        }
+    ],
     "wof:id":1108775527,
     "wof:lastmodified":1481488540,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688623,
     "wof:repo":"whosonfirst-data-constituency-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],

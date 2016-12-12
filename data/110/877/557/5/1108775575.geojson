@@ -9,7 +9,7 @@
     "geom:bbox":"-122.393316,45.54865,-119.86583,47.08875",
     "geom:latitude":46.181927,
     "geom:longitude":-121.187188,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":16831428265.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 14",
     "uscensus:sldust":"014",
     "uscensus:statefp":"53",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688623
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488553,
     "wof:geomhash":"61eca67aa5f472b64ccc2a8672fa8f0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688623
+        }
+    ],
     "wof:id":1108775575,
     "wof:lastmodified":1481488553,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688623,
     "wof:repo":"whosonfirst-data-constituency-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],

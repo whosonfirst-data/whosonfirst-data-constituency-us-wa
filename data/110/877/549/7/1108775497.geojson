@@ -9,7 +9,7 @@
     "geom:bbox":"-122.75974,46.96423,-122.337409,47.27792",
     "geom:latitude":47.111971,
     "geom:longitude":-122.578403,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":415478991.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 28",
     "uscensus:sldlst":"028",
     "uscensus:statefp":"53",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688623
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488535,
     "wof:geomhash":"40dc4d3839f89e6247bb72464b19a687",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688623
+        }
+    ],
     "wof:id":1108775497,
     "wof:lastmodified":1481488535,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688623,
     "wof:repo":"whosonfirst-data-constituency-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
